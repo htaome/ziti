@@ -1,0 +1,17 @@
+
+
+#将以下代码添加你的主题文件css样式即可
+
+
+
+@font-face{
+font-family: 'harmony';
+src: url('https://cdn.jsdelivr.net/gh/htaome/ziti/HarmonySans.ttf');
+src: url('https://cdn.jsdelivr.net/gh/htaome/ziti/HarmonySans.eot');
+src: url('https://cdn.jsdelivr.net/gh/htaome/ziti/HarmonySans.svg');
+src: url('https://cdn.jsdelivr.net/gh/htaome/ziti/HarmonySans.woff');
+src: url('https://cdn.jsdelivr.net/gh/htaome/ziti/HarmonySans.woff2');
+}
+body{
+font-family:'harmony';
+}
